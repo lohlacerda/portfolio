@@ -53,6 +53,7 @@ body {
 .galeria {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: row;
     justify-content: space-between;
     padding: 20px; /* Espaçamento entre os itens */
 }
